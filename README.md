@@ -10,7 +10,7 @@ User-friendly news research tool designed for effortless information retrieval. 
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone 
+  git clone https://github.com/ZoreAnuj/News_Research_Tool.git
 ```
 
 2. Install the required dependencies using pip:
